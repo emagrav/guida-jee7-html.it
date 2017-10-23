@@ -1,6 +1,5 @@
 package it.html.progetto1.ejb31;
  
-import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
  
 /**

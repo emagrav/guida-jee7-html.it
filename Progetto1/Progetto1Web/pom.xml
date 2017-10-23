@@ -7,9 +7,7 @@
     <artifactId>Progetto1Parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>it.html</groupId>
   <artifactId>Progetto1Web</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Progetto1Web Maven Webapp</name>
   <url>http://maven.apache.org</url>
